@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Performans.OpenWeatherApiClient
+namespace Performans.AspNetCore.ApiClients.OpenWeatherApiClient
 {
     public static class ServiceCollectionExtensions
     {
